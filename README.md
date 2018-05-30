@@ -9,8 +9,8 @@ Maps should contains only:
 X (movable blocks)
 O (blocks destination)
 P (player)
-# (blocks)
 SPACE (empity case)
+OTHERS (blocks)
 
 ![alt text](./game.png)
 
